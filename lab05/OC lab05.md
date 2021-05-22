@@ -61,7 +61,7 @@ header-includes:
 
 1. Определяю полное имя моего домашнего каталога, используя команду `pwd`.
 
-![](/Users/klausm1996/Downloads/лаба5/1.jpg)
+![](/Users/klausm1996/Desktop/laboratory/lab09/image/1.jpg)
 
 (Рисунок 1)
 
